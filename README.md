@@ -1,0 +1,2 @@
+# livephoto-bot
+Proyecto muerto
