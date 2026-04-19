@@ -1,0 +1,14 @@
+{
+  "name": "livephoto-bot",
+  "version": "1.0.0",
+  "main": "livephoto-bot.js",
+  "scripts": {
+    "start": "node livephoto-bot.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "ffmpeg-static": "latest",
+    "fluent-ffmpeg": "latest",
+    "qrcode-terminal": "latest"
+  }
+}
