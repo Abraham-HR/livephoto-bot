@@ -6,9 +6,10 @@
     "start": "node livephoto-bot.js"
   },
   "dependencies": {
-  "@whiskeysockets/baileys": "latest",
-  "@hapi/boom": "latest",
-  "ffmpeg-static": "latest",
-  "fluent-ffmpeg": "latest",
-  "qrcode-terminal": "latest"
+    "@whiskeysockets/baileys": "latest",
+    "@hapi/boom": "latest",
+    "ffmpeg-static": "latest",
+    "fluent-ffmpeg": "latest",
+    "qrcode-terminal": "latest"
   }
+}
